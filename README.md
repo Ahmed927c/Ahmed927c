@@ -8,9 +8,9 @@ Full Stack Web Developer
 I've been learning to code for a little over a year, after changing careers. I started with php/wordpress, but really found a passion for react-js.
 
 *   🌍  I'm based in Paris
-*   🖥️  See my portfolio at [Myportfolio](http://agence-web-concept.fr/page/)
-*   ✉️  You can contact me at [contact@agence-web-concept.fr](mailto:contact@agence-web-concept.fr)
-*   🚀  I'm currently working on [My website](http://agence-web-concept.fr/)
+*   🖥️  See my portfolio at [Myportfolio](https://ahmed-ammouri.netlify.app/work)
+*   ✉️  You can contact me at [contact@agence-web-concept.fr](mailto:ammouri.ahmed@outlook.com)
+*   🚀  I'm currently working on [My website](https://ahmed-ammouri.netlify.app/)
 *   🧠  I'm learning Advanced React Native
 
   <a href="https://www.twitter.com/STwiiix" target="_blank" rel="noreferrer"><img
