@@ -9,7 +9,7 @@ I've been learning to code for a little over a year, after changing careers. I s
 
 *   🌍  I'm based in Paris
 *   🖥️  See my portfolio at [Myportfolio](https://ahmed-ammouri.netlify.app/work)
-*   ✉️  You can contact me at [contact@agence-web-concept.fr](mailto:ammouri.ahmed@outlook.com)
+*   ✉️  You can contact me at [ammouri.ahmed@outlook.com](mailto:ammouri.ahmed@outlook.com)
 *   🚀  I'm currently working on [My website](https://ahmed-ammouri.netlify.app/)
 *   🧠  I'm learning Advanced React Native
 
